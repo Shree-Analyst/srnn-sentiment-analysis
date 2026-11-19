@@ -8,7 +8,7 @@
 | **Problem Type** | Binary Classification (Positive / Negative) |
 | **Tools Used** | Python, TensorFlow/Keras, Streamlit |
 | **Key Metric** | Validation Accuracy ~81.2% |
-| **Outcome** | Trained a SimpleRNN model and deployed a Streamlit app to predict sentiment of movie reviews. |
+| **Outcome** | Faciliated accurate, automatic sentiment prediction through a trained SimpleRNN model deployed to Streamlit. |
 
 Jump to:
 - [Executive Summary](#executive-summary)
